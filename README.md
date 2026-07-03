@@ -5,3 +5,7 @@ Test repository for data warehouse
 Name : Thitisuda Daengseeda
 
 ID : 673020491-6
+
+---
+# DWBDA69
+Project for learning stat&69
