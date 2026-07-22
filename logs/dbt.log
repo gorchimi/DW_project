@@ -1,0 +1,25 @@
+[0m02:33:53.085003 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x72c69b32b530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x72c6994a5160>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x72c6986e0aa0>]}
+
+
+============================== 02:33:53.092557 | 59cbec46-303e-4aa0-bd86-86c597b810cd ==============================
+[0m02:33:53.092557 [info ] [MainThread]: Running with dbt=1.11.12
+[0m02:33:53.093727 [debug] [MainThread]: running dbt with arguments {'debug': 'False', 'static_parser': 'True', 'use_experimental_parser': 'False', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt init NorthwindDW_duckdb', 'printer_width': '80', 'use_colors': 'True', 'empty': 'None', 'version_check': 'True', 'cache_selected_only': 'False', 'partial_parse': 'True', 'write_json': 'True', 'warn_error': 'None', 'log_path': 'logs', 'profiles_dir': '/home/codespace/.dbt', 'send_anonymous_usage_stats': 'True', 'log_format': 'default', 'introspect': 'True', 'indirect_selection': 'eager', 'quiet': 'False', 'no_print': 'None', 'fail_fast': 'False', 'log_cache_events': 'False'}
+[0m02:33:53.111068 [info ] [MainThread]: Creating dbt configuration folder at /home/codespace/.dbt
+[0m02:33:53.113266 [debug] [MainThread]: Starter project path: /workspaces/DW_project/.venv/lib/python3.12/site-packages/dbt/include/starter_project
+[0m02:33:53.119983 [info ] [MainThread]: 
+Your new dbt project "NorthwindDW_duckdb" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m02:33:53.121228 [info ] [MainThread]: Setting up your profile.
